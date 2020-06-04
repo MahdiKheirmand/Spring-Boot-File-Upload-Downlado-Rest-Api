@@ -4,7 +4,7 @@ A Library where each book has a cover(File) which can be downloaded
 <br>
 <br>
 
-###Set up
+### Set up
 1. Set application.properties
 <br>    Open src/main/java/resourcers/application.properties
 <br>    Create a MySQL database called  **_spring_boot_file_** 
@@ -34,5 +34,5 @@ A Library where each book has a cover(File) which can be downloaded
 
 
 ### How To Register with postman
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
